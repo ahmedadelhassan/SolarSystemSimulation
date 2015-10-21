@@ -3,3 +3,6 @@ A simple initial version simulation of the solar system using unity3d
 game engine. The simulation doesn't display solar system to scale,
 neither it respects the planet orbital parameters (that may change in
 later versions).
+
+Play the simulation here:
+https://cdn.rawgit.com/ahmedadelhassan/SolarSystemSimulation/master/Builds/WebPlayer/index.html
